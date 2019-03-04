@@ -12,8 +12,8 @@
 ## 国内案例
 
 - [爬取20万数据，我们深扒了风口上的「享物说」](crawl-200k-row-data-and-analyze-the-app-xiang-wu-shuo)
-- [【增长实验】微信裂变一定要刷屏才好吗？](experiment-the-best-practise-of-wechat-user-growth)
-- [抓取5万数据，解密“原价收+一点五折卖”的二手书小程序](grab-50k-rows-data-decrypt-growth-secret-of-the second-hand-book-app)
+- [增长实验: 微信裂变一定要刷屏才好吗？](experiment-the-best-practise-of-wechat-user-growth)
+- [抓取5万数据，解密“原价收再一点五折卖”的二手书小程序](grab-50k-rows-data-decrypt-growth-secret-of-the second-hand-book-app)
 - [薛定谔的蛙儿子：每一次旅行，都是一次坍塌](schrodingers-frog-son-every-trip-is-a-collapse)
 
 ## 国外案例
