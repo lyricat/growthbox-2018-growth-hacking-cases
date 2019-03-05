@@ -1,7 +1,7 @@
 # 2018增长黑客案例合集
 
 - [序：给热爱增长的你们](prelude-to-all-you-growth-lover)
-- [盘点2018年最热门的10大增长黑客策略]()
+- [盘点2018年最热门的10大增长黑客策略](top-10-growth-hacking-strategies-of-2018)
 
 ## 增长入门
 
